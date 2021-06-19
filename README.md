@@ -7,6 +7,7 @@
 
 ## The .gifs are in the following order:
 
+* Full Dashboard
 * Team Members
 * Stock & Crypto Data
 * Stock Analysis
